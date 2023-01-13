@@ -32,17 +32,15 @@ const About = () => {
                 </h2>
 
                 <p className="section__description">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Eveniet veniam assumenda aperiam accusantium ex autem
-                  perferendis repellendus nostrum delectus. Nemo et dolore est
-                  tempore rem minima adipisci magni dolorum ipsam.
+                  We believe in innovation, and innovation are not just creating something new but also to those things to every part of the world.
+                  Our goal is to be a salient part of our customers life providing them with value as well as providing a stable source of income 
+                  to our vendor furter empowering them for a better living standard for them as well as their families and childrens
                 </p>
 
                 <p className="section__description">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Eveniet veniam assumenda aperiam accusantium ex autem
-                  perferendis repellendus nostrum delectus. Nemo et dolore est
-                  tempore rem minima adipisci magni dolorum ipsam.
+                  We have highli skilled drivers who are well known for their success in this field.
+                  They are well behaved and professional. They are completely safe to travel with.
+                  We gurantee complete professional sevice from our side
                 </p>
 
                 <div className=" d-flex align-items-center gap-3 mt-4">
@@ -52,7 +50,7 @@ const About = () => {
 
                   <div>
                     <h6 className="section__subtitle">Need Any Help?</h6>
-                    <h4>+00123456789</h4>
+                    <h4>+917499377697</h4>
                   </div>
                 </div>
               </div>

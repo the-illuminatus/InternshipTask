@@ -42,10 +42,10 @@ const Testimonial = () => {
     <Slider {...settings}>
       <div className="testimonial py-4 px-3">
         <p className="section__description">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus magni
-          explicabo molestias recusandae repudiandae, dolor, sapiente placeat
-          ab, animi eum minima nulla facere aliquam aut vitae quo pariatur
-          voluptate odit?
+          I been using savaari for quite many years. I have always seen best quality cars and drivers. 
+          Customer support is very good and they respond very well. 
+          Every time I land at any airport, I know that my cab will be there to receive me. 
+          I must recommend this to everyone. Also because they are quite reasonable as well.
         </p>
 
         <div className="mt-3 d-flex align-items-center gap-4">
@@ -60,10 +60,9 @@ const Testimonial = () => {
 
       <div className="testimonial py-4 px-3">
         <p className="section__description">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus magni
-          explicabo molestias recusandae repudiandae, dolor, sapiente placeat
-          ab, animi eum minima nulla facere aliquam aut vitae quo pariatur
-          voluptate odit?
+          I had a pleasant experience with the company. The driver was quite courteous and helpful. 
+          He also drove in a style that was comforting to the passengers. I am particularly happy with the way billing happened. 
+          At the end of the journey the driver sent the mileage details and within a few seconds I got the final bill.
         </p>
 
         <div className="mt-3 d-flex align-items-center gap-4">
@@ -78,10 +77,9 @@ const Testimonial = () => {
 
       <div className="testimonial py-4 px-3">
         <p className="section__description">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus magni
-          explicabo molestias recusandae repudiandae, dolor, sapiente placeat
-          ab, animi eum minima nulla facere aliquam aut vitae quo pariatur
-          voluptate odit?
+          I've been using Savaari since last 2+ years across the country and when I say across the country, I mean literally throughout all states. 
+          Booking is extremely easy and billing is fast and efficient. So as a business owner, it saves me time and money.
+          I've hardly faced any problems with these guys. 
         </p>
 
         <div className="mt-3 d-flex align-items-center gap-4">
@@ -96,10 +94,9 @@ const Testimonial = () => {
 
       <div className="testimonial py-4 px-3">
         <p className="section__description">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus magni
-          explicabo molestias recusandae repudiandae, dolor, sapiente placeat
-          ab, animi eum minima nulla facere aliquam aut vitae quo pariatur
-          voluptate odit?
+           Everything was good...on time...well mannered Driver.
+           The pickup is always on time, drivers are courteous, cars are in good condition, the customer support is really good and since I travel a lot Savaari really makes my life easy. 
+           Thanks a lot Savaari car Rentals
         </p>
 
         <div className="mt-3 d-flex align-items-center gap-4">

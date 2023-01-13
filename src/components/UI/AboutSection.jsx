@@ -20,35 +20,29 @@ const AboutSection = ({ aboutClass }) => {
               <h4 className="section__subtitle">About Us</h4>
               <h2 className="section__title">Welcome to car rent service</h2>
               <p className="section__description">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                Voluptatum blanditiis esse accusantium dignissimos labore
-                laborum. Veniam, corporis mollitia temporibus, in quaerat vero
-                deleniti amet dolorem repudiandae, pariatur nam dolore! Impedit
-                neque sit ad temporibus quam similique dolor ipsam praesentium
-                sunt.
+                Savaari car rentals have a fleet of brand new luxury cars in Aurangabad that will help you to travel in style and comfort that matches your status. 
+                Luxury Cars enable last mile connectivity and project exquisite class, wherever you are visiting. Our Luxury car rental fleet includes Mercedes E class, Toyota Camry and other cars like Toyota Corolla. Be assured to get experienced Chauffeurs and premium services for your luxury car hire in Aurangabad. 
+                Luxury Cabs can be booked for airport travel, outstation packages as well as local travel based on your requirements. You can book Savaari cabs from any part of Aurangabad like Deolai ,Pisadevi, Itawa etc at best rates and experience the safe journey. 
+                Prepare to get pampered - we will not let you down. Savaari also provides convenient and cost-effective subscription option for monthly car rentals in Aurangabad for regular cab usage on a metered basis.
               </p>
 
               <div className="about__section-item d-flex align-items-center">
                 <p className="section__description d-flex align-items-center gap-2">
-                  <i class="ri-checkbox-circle-line"></i> Lorem ipsum dolor sit
-                  amet.
+                  <i class="ri-checkbox-circle-line"></i> Sit back and enjoy
                 </p>
 
                 <p className="section__description d-flex align-items-center gap-2">
-                  <i class="ri-checkbox-circle-line"></i> Lorem ipsum dolor sit
-                  amet.
+                  <i class="ri-checkbox-circle-line"></i> Doorstep Pickup
                 </p>
               </div>
 
               <div className="about__section-item d-flex align-items-center">
                 <p className="section__description d-flex align-items-center gap-2">
-                  <i class="ri-checkbox-circle-line"></i> Lorem ipsum dolor sit
-                  amet.
+                  <i class="ri-checkbox-circle-line"></i> Curated Travel content 
                 </p>
 
                 <p className="section__description d-flex align-items-center gap-2">
-                  <i class="ri-checkbox-circle-line"></i> Lorem ipsum dolor sit
-                  amet.
+                  <i class="ri-checkbox-circle-line"></i> Zero Cancellation Fees
                 </p>
               </div>
             </div>
