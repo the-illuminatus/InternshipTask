@@ -72,52 +72,52 @@ self.__precacheManifest = [
     "url": "/the-illuminatus/PassionBitsTask/static/media/drive.c98ce552.jpg"
   },
   {
-    "revision": "263ab654efc6a86d5c2bb401316a3dea",
-    "url": "/the-illuminatus/PassionBitsTask/static/media/slider-3.263ab654.jpg"
+    "revision": "04a1b540d8df9f45b1d252720a4b8092",
+    "url": "/the-illuminatus/PassionBitsTask/static/media/slider-1.04a1b540.jpg"
   },
   {
     "revision": "229d0e73c7e1de90a679721b51d98a69",
     "url": "/the-illuminatus/PassionBitsTask/static/media/slider-2.229d0e73.jpg"
   },
   {
-    "revision": "04a1b540d8df9f45b1d252720a4b8092",
-    "url": "/the-illuminatus/PassionBitsTask/static/media/slider-1.04a1b540.jpg"
-  },
-  {
-    "revision": "31d28485e1cf7369272270fd730327c0",
-    "url": "/the-illuminatus/PassionBitsTask/static/media/remixicon.31d28485.eot"
-  },
-  {
-    "revision": "881fbc46361e0c0e5f003c159b2f3005",
-    "url": "/the-illuminatus/PassionBitsTask/static/media/remixicon.881fbc46.woff"
+    "revision": "263ab654efc6a86d5c2bb401316a3dea",
+    "url": "/the-illuminatus/PassionBitsTask/static/media/slider-3.263ab654.jpg"
   },
   {
     "revision": "9915fef980fa539085da55b84dfde760",
     "url": "/the-illuminatus/PassionBitsTask/static/media/remixicon.9915fef9.woff2"
   },
   {
+    "revision": "881fbc46361e0c0e5f003c159b2f3005",
+    "url": "/the-illuminatus/PassionBitsTask/static/media/remixicon.881fbc46.woff"
+  },
+  {
     "revision": "888e61f04316f10bddfff7bee10c6dd0",
     "url": "/the-illuminatus/PassionBitsTask/static/media/remixicon.888e61f0.ttf"
+  },
+  {
+    "revision": "31d28485e1cf7369272270fd730327c0",
+    "url": "/the-illuminatus/PassionBitsTask/static/media/remixicon.31d28485.eot"
   },
   {
     "revision": "95138f36e015ad912c37db92164f5844",
     "url": "/the-illuminatus/PassionBitsTask/static/media/remixicon.95138f36.svg"
   },
   {
-    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
-    "url": "/the-illuminatus/PassionBitsTask/static/media/slick.b7c9e1e4.woff"
-  },
-  {
     "revision": "ced611daf7709cc778da928fec876475",
     "url": "/the-illuminatus/PassionBitsTask/static/media/slick.ced611da.eot"
   },
   {
-    "revision": "f97e3bbf73254b0112091d0192f17aec",
-    "url": "/the-illuminatus/PassionBitsTask/static/media/slick.f97e3bbf.svg"
+    "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
+    "url": "/the-illuminatus/PassionBitsTask/static/media/slick.b7c9e1e4.woff"
   },
   {
     "revision": "d41f55a78e6f49a5512878df1737e58a",
     "url": "/the-illuminatus/PassionBitsTask/static/media/slick.d41f55a7.ttf"
+  },
+  {
+    "revision": "f97e3bbf73254b0112091d0192f17aec",
+    "url": "/the-illuminatus/PassionBitsTask/static/media/slick.f97e3bbf.svg"
   },
   {
     "revision": "483c3ba5211c2e419ca4781ab9ef4f58",
