@@ -76,20 +76,20 @@ self.__precacheManifest = [
     "url": "/the-illuminatus/PassionBitsTask/static/media/slider-1.04a1b540.jpg"
   },
   {
-    "revision": "229d0e73c7e1de90a679721b51d98a69",
-    "url": "/the-illuminatus/PassionBitsTask/static/media/slider-2.229d0e73.jpg"
-  },
-  {
     "revision": "263ab654efc6a86d5c2bb401316a3dea",
     "url": "/the-illuminatus/PassionBitsTask/static/media/slider-3.263ab654.jpg"
   },
   {
-    "revision": "9915fef980fa539085da55b84dfde760",
-    "url": "/the-illuminatus/PassionBitsTask/static/media/remixicon.9915fef9.woff2"
+    "revision": "229d0e73c7e1de90a679721b51d98a69",
+    "url": "/the-illuminatus/PassionBitsTask/static/media/slider-2.229d0e73.jpg"
   },
   {
     "revision": "881fbc46361e0c0e5f003c159b2f3005",
     "url": "/the-illuminatus/PassionBitsTask/static/media/remixicon.881fbc46.woff"
+  },
+  {
+    "revision": "9915fef980fa539085da55b84dfde760",
+    "url": "/the-illuminatus/PassionBitsTask/static/media/remixicon.9915fef9.woff2"
   },
   {
     "revision": "888e61f04316f10bddfff7bee10c6dd0",

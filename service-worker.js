@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/the-illuminatus/PassionBitsTask/precache-manifest.843beb35b1a87ddfea9ce87d639d565d.js"
+  "/the-illuminatus/PassionBitsTask/precache-manifest.a7ae7eb8e64cd70a463fa7d03cc5aa83.js"
 );
 
 workbox.clientsClaim();
