@@ -43,13 +43,13 @@ const Footer = () => {
                 <Link to="/home" className=" d-flex align-items-center gap-2">
                   <i class="ri-car-line"></i>
                   <span>
-                    Rent Car <br /> Service
+                    Sujit's Automobile Rental <br /> Service
                   </span>
                 </Link>
               </h1>
             </div>
             <p className="footer__logo-content">
-               Our company owns several Cars in various cities available for rent on a daily basis.
+               Our company owns several automobiles in various cities available for rent on a daily basis.
                Every Car has a vehicle number, model, seating capacity, rent per day etc. People
                make reservations/booking for these cars. Booking status of these cars include the
                customer details, issue date (the date on which car is given on rent) and return date (the
